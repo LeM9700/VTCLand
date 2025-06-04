@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LeM9700/VTCLand/static/css/main.2f507535.css",
+    "main.js": "/LeM9700/VTCLand/static/js/main.37f21188.js",
+    "static/js/453.3b87f1b6.chunk.js": "/LeM9700/VTCLand/static/js/453.3b87f1b6.chunk.js",
+    "index.html": "/LeM9700/VTCLand/index.html",
+    "main.2f507535.css.map": "/LeM9700/VTCLand/static/css/main.2f507535.css.map",
+    "main.37f21188.js.map": "/LeM9700/VTCLand/static/js/main.37f21188.js.map",
+    "453.3b87f1b6.chunk.js.map": "/LeM9700/VTCLand/static/js/453.3b87f1b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f507535.css",
+    "static/js/main.37f21188.js"
+  ]
+}
