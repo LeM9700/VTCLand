@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/LeM9700/VTCLand/static/css/main.2f507535.css",
-    "main.js": "/LeM9700/VTCLand/static/js/main.eb2e4e68.js",
-    "static/js/453.3b87f1b6.chunk.js": "/LeM9700/VTCLand/static/js/453.3b87f1b6.chunk.js",
-    "index.html": "/LeM9700/VTCLand/index.html",
-    "main.2f507535.css.map": "/LeM9700/VTCLand/static/css/main.2f507535.css.map",
-    "main.eb2e4e68.js.map": "/LeM9700/VTCLand/static/js/main.eb2e4e68.js.map",
-    "453.3b87f1b6.chunk.js.map": "/LeM9700/VTCLand/static/js/453.3b87f1b6.chunk.js.map"
+    "main.css": "/VTCLand/static/css/main.2f507535.css",
+    "main.js": "/VTCLand/static/js/main.e740982c.js",
+    "static/js/453.3b87f1b6.chunk.js": "/VTCLand/static/js/453.3b87f1b6.chunk.js",
+    "index.html": "/VTCLand/index.html",
+    "main.2f507535.css.map": "/VTCLand/static/css/main.2f507535.css.map",
+    "main.e740982c.js.map": "/VTCLand/static/js/main.e740982c.js.map",
+    "453.3b87f1b6.chunk.js.map": "/VTCLand/static/js/453.3b87f1b6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2f507535.css",
-    "static/js/main.eb2e4e68.js"
+    "static/js/main.e740982c.js"
   ]
 }
